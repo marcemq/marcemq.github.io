@@ -23,11 +23,11 @@ repository               : "https://github.com/marcemq/marcemq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "marce_profile.png"
+  avatar           : "marce_profile.jpeg"
   name             : "Marcela Morales Quispe"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student at CIMAT. Aspiring to be research scientists to solve social, medical and environmental problems."
-  location         : "Earth"
+  location         : "Guanajuato, MX"
   employer         : "Cimat"
   uri              : # URL
   email            : "marcelamq@cimat.mx" 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/marcemq"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
