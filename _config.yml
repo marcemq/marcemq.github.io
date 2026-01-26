@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Marcela Morales Quispe"
 title_separator          : "-"
 name                     : &name "Marcela Morales Quispe"
@@ -23,7 +23,7 @@ repository               : "https://github.com/marcemq/marcemq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "marce_profile.jpeg"
   name             : "Marcela Morales Quispe"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student at CIMAT. Aspiring to be research scientists to solve social, medical and environmental problems."
