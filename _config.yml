@@ -23,7 +23,7 @@ repository               : "https://github.com/marcemq/marcemq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "marce_profile.jpeg"
+  avatar           : "me.png"
   name             : "Marcela Morales Quispe"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student at CIMAT. Aspiring to be research scientists to solve social, medical and environmental problems."
