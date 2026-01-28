@@ -1,0 +1,33 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <small>
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><br>
+    {% if post.citation %}
+      {{ post.citation }}
+    {% endif %}
+    </small>
+    {% if post.link %}
+      <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.github %}
+      <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+    {% endif %}
+  </article>
+</div>
