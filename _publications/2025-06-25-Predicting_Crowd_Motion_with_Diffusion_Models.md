@@ -9,4 +9,5 @@ venue: 'Mexican Conference on Pattern Recognition'
 github: 'https://github.com/marcemq/crowdmod-ddpm-4D'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-96255-4_31'
 citation: 'Morales Quispe, Marcela. (2025). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+tags: [Generative_models,htp]
 ---
