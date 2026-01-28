@@ -222,7 +222,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -230,7 +230,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  CV:
+  thesis:
     output: true
     permalink: /:collection/:path/
 
@@ -282,12 +282,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _CV
+  # _thesis
   - scope:
       path: ""
-      type: CV
+      type: thesis
     values:
-      layout: CV
+      layout: single
       author_profile: true
       share: true
 
