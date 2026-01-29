@@ -1,7 +1,6 @@
 ---
 title: "Predicting Crowd Motion with Diffusion Models"
 collection: publications
-category: conferences
 permalink: /publication/2025-06-25-Predicting_Crowd_Motion_with_Diffusion_Models
 excerpt: 'This paper proposes a novel macroscopic approach for forecasting the motion of a crowd in a few seconds time horizon, conditionally to a handful of past visual observations. We leverage a compact, grid-based representation of the crowd through macroscopic properties (local density and velocity) and a conditional diffusion model to generate samples of the predictive distribution for the crowd motion. We propose new evaluation metrics for this problem and compare the performance of several variants of the proposed approach on the ATC dataset.'
 date: 2025-06-25
