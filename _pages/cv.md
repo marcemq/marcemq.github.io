@@ -66,4 +66,4 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Service and leadership
-* Mentor at The Technovation Challenge, guiding a team of young women in developing a mobile application designed to promote and educate on eco-friendly living. This project provided an excellent opportunity to introduce them to technology, software development, and problem-solving, while fostering their interest in STEM. Beyond technical mentorship, I focused on empowering them to think critically about environmental challenges and use technology as a tool for social impact.
+* Mentor at [The Technovation Challenge](https://technovationchallenge.org/), guiding a team of young women in developing a mobile application designed to promote and educate on eco-friendly living. This project provided an excellent opportunity to introduce them to technology, software development, and problem-solving, while fostering their interest in STEM. Beyond technical mentorship, I focused on empowering them to think critically about environmental challenges and use technology as a tool for social impact.
