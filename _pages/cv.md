@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 ***
-Education
+## Education
 ======
 * Engineering degree, [Universidad Autónoma de Aguascalientes (UAA)](https://www.uaa.mx), Aguascalientes, México, 2011.
 * M.Sc. in Mathematics and Computer Science, [Centro de Investigación en Matemáticas A.C](https://www.cimat.mx/), Guanajuato, México, 2013.
 * Ph.D in Computer Science, [Centro de Investigación en Matemáticas A.C](https://www.cimat.mx/), Guanajuato, México, 2026 (expected)
 
-Work experience
+## Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
