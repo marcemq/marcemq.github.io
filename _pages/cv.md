@@ -18,7 +18,7 @@ redirect_from:
 * 2022-Now: **PhD thesis**.
   * [CIMAT. A.C.](https://www.cimat.mx) (Guanajuato, México).
   * Advisor: Pr. Jean-Bernard Hayet
-  * Topic: Crowd motion prediction.
+  * Topic: Crowd motion prediction using generative models.
     
 * Spring 2022: **Research Engineer**
   * [CIMAT. A.C.](https://www.cimat.mx) (Guanajuato, México).
