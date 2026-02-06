@@ -8,5 +8,5 @@ venue: 'Springer Nature'
 github: 'https://github.com/cimat-ris/trajpred-unc'
 paperurl: 'https://doi.org/10.1007/s00138-025-01682-z'
 citation: 'Canche, M., Morales Quispe, M., & Hayet, JB. (2025)'
-tags: [Human trajectory prediction, Uncertainty quantification, Uncertainty calibration,journal]
+tags: [Human_trajectory_prediction,Uncertainty_quantification,Uncertainty_calibration,journal]
 ---
