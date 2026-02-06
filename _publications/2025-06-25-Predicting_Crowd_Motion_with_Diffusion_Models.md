@@ -6,7 +6,7 @@ excerpt: 'This paper proposes a novel macroscopic approach for forecasting the m
 date: 2025-06-25
 venue: 'Mexican Conference on Pattern Recognition 2025'
 github: 'https://github.com/marcemq/crowdmod-ddpm-4D'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-96255-4_31'
+paperurl: 'https://doi.org/10.1007/978-3-031-96255-4_31'
 citation: 'Morales Quispe, M., Hayet, JB. (2025). <i>Predicting Crowd Motion with Diffusion Models</i>. In: López-Monroy, A.P., Rosales-Pérez, A., Carrasco-Ochoa, J.A., Martínez-Trinidad, J.F., Olvera-López, J.A. (eds) <i>Pattern Recognition. MCPR 2025</i>. Lecture Notes in Computer Science, vol 15715. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-96255-4_31">doi:10.1007/978-3-031-96255-4_31</a>'
 tags: [Generative_models,htp,conference]
 ---
